@@ -1,8 +1,8 @@
 # Evaluation Manual
 
-> Guideline and criteria for evaluating hackathon and code spring globally conducted by developer friendly companies 
+> Guideline and criteria for evaluating hackathon and code sprint globally conducted by developer friendly companies 
 
-> Here are the current evaluation parameters that we have listed
+> Here are the current evaluation parameters that we have listed, which we use at [HackerEarth](https://www.hackerearth.com/)
 
 > Please feel free to fork this repo and add more aspects which would help evaluate hackathons and code sprint events involving aspects such as innovation, code, design and user experience.
 
