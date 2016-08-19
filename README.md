@@ -8,7 +8,7 @@
 
 **Four core parameters**:
 
-* Idea
+* [Idea](https://github.com/mayurah/Evaluation-Manual/blob/master/idea.md)
 * Code
 * Design
 * Overall Usability
