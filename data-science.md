@@ -27,6 +27,10 @@
 - Use of cloud providers, available resources and/or delivering more than what has been asked
 - Extra efforts/Uniqueness/creativity in given submission(s)
 
+
+- **Sample solution**: [data-science-sample-answer](https://github.com/surabhigr/data-science)
+
+
 — **Note:** This is raw guideline, and can be altered/customized as per the requirement and mutual discussion between Client and Evaluation Team.
 
 
