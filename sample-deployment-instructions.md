@@ -1,6 +1,6 @@
 # Sample Deployment Instructions / Readme.md
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+* **Note**: This is pseudo sample file attached with the hackathon or task-based submission to deliver clearn understanding.
 
 # Problem Statement
 
@@ -59,7 +59,13 @@ Live demo is also hosted at  [http://propertyguru.demo.abhi9.in](http://abhi9.in
  - Code refactoring
  - Support for WebSockets, WebSQL and CDN
 
-### Sample Wireframe
+
+### Architecture
+
+[![N|Solid](http://i.imgur.com/Dc5KSJ5.png)](https://aws.amazon.com/getting-started/projects/launch-lamp-web-app/)
+
+
+### Sample Wireframe / Screenshot
 ![Sample Wireframe](http://i.imgur.com/mp5naGe.png "Sample Wireframe / Mockup")
 
 ### Portfolio / On the web.
