@@ -35,7 +35,7 @@
 - Coding standard, beautified and well-maintained code, external libraries
 - Algorithms, Web API, creativity, logic, framework, network communication
 - Use of version control, demo url and deployment tools to make development operations easier
-- Documentation, Collaborative tools and devOps automation
+- [Documentation](https://github.com/mayurah/Evaluation-Manual/blob/master/sample-deployment-instructions.md), Collaborative tools and devOps automation
 - Have a look at [Data Science](https://github.com/mayurah/Evaluation-Manual/blob/master/data-science.md) for sub-parameters used for evaluating data science submission
 
 ## Overall Usability
