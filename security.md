@@ -1,14 +1,17 @@
 Though evaluation would be done based on contribution made by candidates in respective domain, here are Some of the evaluation paramenters for security hackathon.
 
+## Cyber Security 🛡
+
+- Completeness of submission
 - Quality of submitted solution
 - Understanding of the problem
-- Extra points: 
-	-- Innovative approach
-	-- going extra mile to build PoC for exploit
-	-- build wireframe or flow to further explain the solution/hack,
-	-- Finding unknown vulnerability which wasn't part of the CTF
-	-- Documentation, Robust Design and architectural knowledge
-	-- Deployment and Live Demo
+- Extra points:
+-- Innovative approach
+-- Going extra mile to build PoC for exploit
+-- build wireframe or flow to further explain the solution/hack,
+-- Finding unknown vulnerability which wasn't part of the CTF
+-- Documentation, Robust Design and architectural knowledge
+-- Deployment and Live Demo
 
 —
 
