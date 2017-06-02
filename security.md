@@ -6,6 +6,7 @@ Though evaluation would be done based on contribution made by candidates in resp
 - Quality of submitted solution
 - Understanding of the problem
 - Extra points:
+
 -- Innovative approach
 -- Going extra mile to build PoC for exploit
 -- build wireframe or flow to further explain the solution/hack,
