@@ -2,9 +2,9 @@ Though evaluation would be done based on contribution made by candidates in resp
 
 ## Cyber Security 🛡
 
-- Completeness of submission
-- Quality of submitted solution
-- Understanding of the problem
+- **Completeness** of submission
+- **Quality** of submitted solution
+- **Understanding** of the problem
 - Extra points:
 
     > Innovative approach towards the solution
