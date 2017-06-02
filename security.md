@@ -8,11 +8,17 @@ Though evaluation would be done based on contribution made by candidates in resp
 - Extra points:
 
     > Innovative approach towards the solution
+
     > Going extra mile to build PoC for exploit
+
     > Build wireframe or flow to further explain the solution/hack
+
     > Finding valid unknown 0day vulnerabilities which wasn't part of the CTF
+
     > Documentation, Robust Design and architectural knowledge
+
     > Deployment and Live Demo
+
 —
 
 Raw Evaluation Understanding for Safety of Docker containers in Cloud, Splunk SIEM, VA/PT  and overall Cybersecurity events.
