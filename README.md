@@ -4,7 +4,7 @@
 
 > Here are the current evaluation parameters that we have listed, which we use at [HackerEarth](https://www.hackerearth.com/)
 
-> Please feel free to fork this repo and add more aspects which would help evaluate hackathons and code sprint events involving aspects such as innovation, code, design and user experience.
+> Please feel free to fork this repo and add more aspects which would help evaluate hackathons, security/ctf, cloud orchestration  and code sprint events involving aspects such as innovation, code, design and user experience.
 
 **Four core parameters**:
 
@@ -48,5 +48,7 @@
 
 
 **PS**: This paper is made for and used at HackerEarth for the evaluation process of Hackathon and Hiring challenges. 
+
+**Note**: To know more about criteria for 🛡security events, please consider looking at [security manual](https://github.com/mayurah/Evaluation-Manual/blob/master/security.md) on top of base evaluation criteria.
 
 Love it? Say hi to me at **ma yur (@) hackerearth (dot) com** (no space).
