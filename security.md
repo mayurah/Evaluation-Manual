@@ -23,8 +23,7 @@ II. Once the event is over, subject-matter expert will evaluate each of the cand
 
 III. As an outcome, we would get efficiency of each candidate on each of the domain and cumulative ranking on how good they're with respective domains.
 
-For example, Say candidate X has 70% in Slunk,  50% on VA/PT and 90% on Cloud.
+For example, Say candidate Alice has 70% in Slunk, Bob scored 50% on VA/PT and Mallory scored 90% on Cloud.
 
-Hope that helps understand evaluation criteria for Hybrid Security event.
 
 
